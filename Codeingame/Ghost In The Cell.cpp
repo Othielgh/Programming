@@ -5,38 +5,12 @@
 
 using namespace std;
 
-// // unsure about the classes
-// class factory{
-//     int id;
-//     int owner;
-//     int cyborgs;
-//     int production;
-
-//     public  factory(int id, int owner, int cyborgs, int production){
-//         id = id;
-//         owner = owner;
-//         cyborgs = cyborgs;
-//         production = production;
-//     }
-
-// }
-
-// class player{
-//      player(string args[]){
-//         int number=0;
-//         int loopvalue=0;
-//         cin >> loopvalue;
-//         for(int i = 0; i < loopValue; i++)
-//         {
-//             std::cin >> number;
-//         int factoryCount = number;
-//         int linkCount = number;
-//         for(int i = 0; i < linkCount; i++){
-//             int factory1 = i
-//             }
-//         }
-//     }
-// }
+//To-do 
+// Create list of factories
+// Send troops for factory with most troops
+// Can do 2 actions in Wood 2, so send from more factories at once.
+// WAIT on empty factory
+// Attack nearest factory
 
 
 int main()
