@@ -1,15 +1,11 @@
-VS/FDM/FDM.sln
-VS/FDM/.vs/FDM/v16/.suo
-VS/FDM/.vs/FDM/v16/Browse.VC.db
-VS/FDM/.vs/FDM/v16/ipch/AutoPCH/aa2bcbd72d726d74/FDM.ipch
-VS/FDM/FDM/FDM.cpp
-VS/FDM/FDM/FDM.h
-VS/FDM/FDM/FDM.ico
-VS/FDM/FDM/FDM.rc
-VS/FDM/FDM/FDM.vcxproj
-VS/FDM/FDM/FDM.vcxproj.filters
-VS/FDM/FDM/FDM.vcxproj.user
-VS/FDM/FDM/framework.h
-VS/FDM/FDM/Resource.h
-VS/FDM/FDM/small.ico
-VS/FDM/FDM/targetver.h
+.vscode/
+AndroidStudioProjects/
+C++/
+C#/
+SQL/
+Unity/
+Python/
+Codeingame/
+Codewars/
+OdinProject/
+Advent of code/

@@ -29,7 +29,7 @@ import string
 #######################################################
 
 alphabet = string.ascii_lowercase
-key = "cdefghijklmnopqrstuvwxyzab"
+key = "nopqrstuvwxyzabcdefghijklm"
 
 def decrypt():
     print("This move all characters in your message by 2 positions!")

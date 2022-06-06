@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Sandbox",
+            "request": "launch",
+            "mainClass": "Sandbox",
+            "projectName": "Programming_5a344963"
+        },
+        {
             "name": "g++.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
