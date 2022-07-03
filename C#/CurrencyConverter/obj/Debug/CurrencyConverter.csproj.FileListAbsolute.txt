@@ -1,0 +1,7 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\App.g.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\CurrencyConverter_Content.g.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.lref

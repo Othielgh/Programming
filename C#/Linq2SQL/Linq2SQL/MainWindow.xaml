@@ -1,0 +1,18 @@
+﻿<Window x:Class="Linq2SQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Linq2SQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="420" Width="520">
+    <Grid>
+        <DataGrid x:Name="MainDataGrid" HorizontalAlignment="Center" VerticalAlignment="Top" Height="192" Width="500" Margin="0,10,0,0"/>
+        <TextBox Name="myTextBox" HorizontalAlignment="Left" Margin="10,307,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="197"/>
+        <Button Click="InsertUniversities_Click" Content="Add Uni" HorizontalAlignment="Left" Margin="10,330,0,0" VerticalAlignment="Top" Width="68" FontSize="10"/>
+        <Button Click="InsertStudents_Click" Content="Add Student" HorizontalAlignment="Left" Margin="83,330,0,0" VerticalAlignment="Top" Width="68" FontSize="10"/>
+        <Button Content="Remove Uni" HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Width="68" FontSize="10"/>
+        <Button Content="Remove Student" HorizontalAlignment="Left" Margin="83,355,0,0" VerticalAlignment="Top" Width="68" FontSize="8" Height="17"/>
+
+    </Grid>
+</Window>

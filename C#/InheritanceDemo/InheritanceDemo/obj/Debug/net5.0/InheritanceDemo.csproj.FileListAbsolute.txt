@@ -1,0 +1,16 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\refint\InheritanceDemo.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll

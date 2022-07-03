@@ -1,0 +1,16 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.AssemblyInfoInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.AssemblyInfo.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.csproj.CoreCompileInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.exe
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.deps.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.runtimeconfig.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.runtimeconfig.dev.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\bin\Debug\net5.0\Highscore.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\refint\Highscore.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\Highscore.genruntimeconfig.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Highscore\Highscore\obj\Debug\net5.0\ref\Highscore.dll

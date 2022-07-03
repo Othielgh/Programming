@@ -1,0 +1,16 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.exe
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.deps.json
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.runtimeconfig.json
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.runtimeconfig.dev.json
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\bin\Debug\net5.0\ThreadTest.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.AssemblyInfoInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.AssemblyInfo.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\refint\ThreadTest.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ThreadTest.genruntimeconfig.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\ThreadTest\obj\Debug\net5.0\ref\ThreadTest.dll

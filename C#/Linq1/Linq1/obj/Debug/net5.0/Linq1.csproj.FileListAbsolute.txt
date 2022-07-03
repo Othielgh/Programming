@@ -1,0 +1,16 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.exe
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.deps.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.runtimeconfig.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.runtimeconfig.dev.json
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\bin\Debug\net5.0\Linq1.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.AssemblyInfo.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\refint\Linq1.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\Linq1.genruntimeconfig.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\Linq1\Linq1\obj\Debug\net5.0\ref\Linq1.dll

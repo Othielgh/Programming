@@ -51,7 +51,6 @@ h2 {
   text-shadow: 2px 2px 3px grey;
 }
 
-
 h3 {
   font-family: "Montserrat", sans-serif;
   color: #276678;
@@ -69,7 +68,7 @@ h3 {
 }
 
 .top-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)),
     url("../images/helibanner.png");
   position: relative;
   padding-top: 100px;
@@ -77,7 +76,7 @@ h3 {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: inherit;
   height: 90vh;
 }
 
@@ -93,15 +92,15 @@ h3 {
 
 .middle-container {
   margin: 100px 0;
-/*   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-  url("../images/cockpit.png");
-position: relative;
-padding-top: 100px;
-min-height: 500px;
-background-attachment: fixed;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover; */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)),
+    url("../images/cockpit.png");
+  position: relative;
+  padding-top: 100px;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .bottom-container {
@@ -115,41 +114,54 @@ background-size: cover; */
   padding: 20px 0;
 }
 
-.skill-row {
-  width: 50%;
-  margin: 100px auto;
-  text-align: left;
-  line-height: 2;
+.skill-wrapper {
+    background-color: rgba(0, 0, 0, 0.8);
+    /* float: left; */
+  width: 602px;
+  margin:  auto;
+  overflow: hidden;
 }
 
 .heli {
-  width: 25%;
+  overflow: hidden;
+  width: 200px;
   float: left;
-  margin-right: 30px;
-  margin-bottom: 10%;
+
+}
+
+.heli-pic {
+    border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  float: top;
 }
 
 .webdev {
-  border-radius: 100%;
-  float: right;
-  width: 25%;
-  margin-left: 30px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  overflow: hidden;
+  width: 200px;
+    float: left;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 500px;
-  top: 50px;
+.webdev-pic {
+    border-radius: 100%;
+  float: top;
+  width: 200px;
+  margin-top: 20px;
 }
 
-.bottom-cloud {
-  position: absolute;
-  left: 500px;
-  top: 400px;
+.hobby {
+    float: left;
+    overflow: hidden;
+    width: 200px;
 }
 
-.mountain {
-  width: 100%;
+.hobby-pic {
+    float: top;
+    width: 25%;
+  margin-top: 20px;
+
 }
 
 .contact-me {

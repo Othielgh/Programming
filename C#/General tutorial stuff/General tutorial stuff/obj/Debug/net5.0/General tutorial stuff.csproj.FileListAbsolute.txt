@@ -1,0 +1,16 @@
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.csproj.AssemblyReference.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.AssemblyInfoInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.AssemblyInfo.cs
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.csproj.CoreCompileInputs.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.exe
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.deps.json
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.runtimeconfig.json
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.runtimeconfig.dev.json
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\bin\Debug\net5.0\General tutorial stuff.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\refint\General tutorial stuff.dll
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.pdb
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\General tutorial stuff.genruntimeconfig.cache
+C:\Users\agjac\Documents\Projects\Programming\C#\General tutorial stuff\General tutorial stuff\obj\Debug\net5.0\ref\General tutorial stuff.dll
